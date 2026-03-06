@@ -1,16 +1,16 @@
-## Hi there, I'm an IT student currently good with the basics, HTML, CSS and im currently learning Java Script and Python.
+# Hi there, I'm sr-dyk-dev! 👋
 
-<!--
-**sr-dyk-dev/sr-dyk-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🔭 I’m currently working on **Sharpening my frontend**
+- 🌱 I’m currently learning **Java Script, React and Python**
+- ⚡ Fun fact: **I'd love building things that solve real-world problems.**
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,vscode)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Java Script 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with React
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sr-dyk-dev&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sr-dyk-dev&layout=compact&theme=dark)
+
+---
+📫 **How to reach me:** [sr.dyk.dev@gmail.com]
