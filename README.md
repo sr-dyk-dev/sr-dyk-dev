@@ -6,7 +6,7 @@
 - ⚡ Fun fact: **I'd love building things that solve real-world problems.**
 
 ### 🛠 Tech Stack
-![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,vscode)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,vscode,php,mysql)
 
 
 ---
